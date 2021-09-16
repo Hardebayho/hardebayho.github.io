@@ -1,0 +1,13 @@
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/portfolio
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/lib/liburl_launcher_linux_plugin.so
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/simple_music.png
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo.png
+/home/adebayo/dev/portfolio_projects/portfolio/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
